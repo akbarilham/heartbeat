@@ -26,7 +26,7 @@ Run Steps
   2. Navigate to your F# project folder.
   3. Run the following command:
 
-    dotnet build
+    dotnet run
 
 Tips
 <ul class="circle">
